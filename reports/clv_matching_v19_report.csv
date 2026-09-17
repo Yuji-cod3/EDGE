@@ -1,0 +1,2 @@
+version,clv_observations,unique_matches,matched_observations,unmatched_observations,match_rate_percent,duplicate_canonical_match_ids,unresolved_clv_dates,unresolved_clv_home_teams,unresolved_clv_away_teams
+v0.19,5320,2660,5320,0,100.0,0,0,0,0

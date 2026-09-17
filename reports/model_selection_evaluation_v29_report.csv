@@ -1,0 +1,17 @@
+section,group,metric,value,observations
+selection,OVER,brier_difference,0.005361710569198513,2654
+selection,UNDER,brier_difference,0.005361710569198458,2654
+season,2019_20,brier_difference,0.010229245855609193,758
+season,2020_21,brier_difference,-0.00024041826460610705,758
+season,2021_22,brier_difference,0.0029655076253094492,758
+season,2022_23,brier_difference,0.007360123408835517,758
+season,2023_24,brier_difference,0.01328017175865115,758
+season,2024_25,brier_difference,0.004555383828316412,758
+season,2025_26,brier_difference,-0.0006023040414185887,760
+overall,ALL,model_brier,0.24607571891504004,5308
+overall,ALL,opening_brier,0.24071400834584158,5308
+overall,ALL,closing_brier,0.24048418368819982,5308
+overall,ALL,model_log_loss,0.6852729177456658,5308
+overall,ALL,opening_log_loss,0.6742513019402554,5308
+overall,ALL,closing_log_loss,0.6737665651283266,5308
+overall,ALL,edge_clv_correlation,0.01868812924892598,5308

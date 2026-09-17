@@ -1,0 +1,2 @@
+version,observations,unique_matches,same_sign_count,different_sign_count,sign_consistency_rate,price_clv_mean,price_clv_median,positive_price_clv_rate,fair_probability_clv_mean,fair_probability_clv_median,positive_fair_probability_clv_rate,clv_correlation,max_opening_probability_error,max_closing_probability_error,extreme_clv_count
+v0.22,5320,2660,5251,69,0.9870300751879699,6.75703388629323e-05,0.0,0.37969924812030076,0.00020952566383894802,0.0,0.3825187969924812,0.9864887358570591,2.220446049250313e-16,2.220446049250313e-16,13

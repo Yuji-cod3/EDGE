@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets
+.env
+*.env
+*.key
+*.pem
+
+# Unrelated packet captures
+capture-*.cap
+capture-*.csv
+capture-*.kismet.csv
+capture-*.kismet.netxml
+capture-*.log.csv
+
+# Temporary files
+*.tmp
+*.bak

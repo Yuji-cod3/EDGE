@@ -1,0 +1,2 @@
+version,total_observations,sign_exceptions,exception_rate,tiny_movements,margin_effects,genuine_direction_disagreements,max_price_recalculation_error,max_fair_recalculation_error
+v0.23,5320,51,0.009586466165413534,0,51,0,9.367506770274758e-17,1.8908485888147197e-16

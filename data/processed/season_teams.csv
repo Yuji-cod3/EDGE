@@ -1,0 +1,221 @@
+season,team_id,team_name,raw_name,competition
+2015_16,ARS,Arsenal,Arsenal,EPL
+2015_16,AVL,Aston Villa,Aston Villa,EPL
+2015_16,BOU,AFC Bournemouth,Bournemouth,EPL
+2015_16,CHE,Chelsea,Chelsea,EPL
+2015_16,CRY,Crystal Palace,Crystal Palace,EPL
+2015_16,EVE,Everton,Everton,EPL
+2015_16,LEI,Leicester City,Leicester,EPL
+2015_16,LIV,Liverpool,Liverpool,EPL
+2015_16,MCI,Manchester City,Man City,EPL
+2015_16,MUN,Manchester United,Man United,EPL
+2015_16,NEW,Newcastle United,Newcastle,EPL
+2015_16,NOR,Norwich City,Norwich,EPL
+2015_16,SOU,Southampton,Southampton,EPL
+2015_16,STK,Stoke City,Stoke,EPL
+2015_16,SUN,Sunderland,Sunderland,EPL
+2015_16,SWA,Swansea City,Swansea,EPL
+2015_16,TOT,Tottenham Hotspur,Tottenham,EPL
+2015_16,WAT,Watford,Watford,EPL
+2015_16,WBA,West Bromwich Albion,West Brom,EPL
+2015_16,WHU,West Ham United,West Ham,EPL
+2016_17,ARS,Arsenal,Arsenal,EPL
+2016_17,BOU,AFC Bournemouth,Bournemouth,EPL
+2016_17,BUR,Burnley,Burnley,EPL
+2016_17,CHE,Chelsea,Chelsea,EPL
+2016_17,CRY,Crystal Palace,Crystal Palace,EPL
+2016_17,EVE,Everton,Everton,EPL
+2016_17,HUL,Hull City,Hull,EPL
+2016_17,LEI,Leicester City,Leicester,EPL
+2016_17,LIV,Liverpool,Liverpool,EPL
+2016_17,MCI,Manchester City,Man City,EPL
+2016_17,MID,Middlesbrough,Middlesbrough,EPL
+2016_17,MUN,Manchester United,Man United,EPL
+2016_17,SOU,Southampton,Southampton,EPL
+2016_17,STK,Stoke City,Stoke,EPL
+2016_17,SUN,Sunderland,Sunderland,EPL
+2016_17,SWA,Swansea City,Swansea,EPL
+2016_17,TOT,Tottenham Hotspur,Tottenham,EPL
+2016_17,WAT,Watford,Watford,EPL
+2016_17,WBA,West Bromwich Albion,West Brom,EPL
+2016_17,WHU,West Ham United,West Ham,EPL
+2017_18,ARS,Arsenal,Arsenal,EPL
+2017_18,BOU,AFC Bournemouth,Bournemouth,EPL
+2017_18,BRI,Brighton & Hove Albion,Brighton,EPL
+2017_18,BUR,Burnley,Burnley,EPL
+2017_18,CHE,Chelsea,Chelsea,EPL
+2017_18,CRY,Crystal Palace,Crystal Palace,EPL
+2017_18,EVE,Everton,Everton,EPL
+2017_18,HUD,Huddersfield Town,Huddersfield,EPL
+2017_18,LEI,Leicester City,Leicester,EPL
+2017_18,LIV,Liverpool,Liverpool,EPL
+2017_18,MCI,Manchester City,Man City,EPL
+2017_18,MUN,Manchester United,Man United,EPL
+2017_18,NEW,Newcastle United,Newcastle,EPL
+2017_18,SOU,Southampton,Southampton,EPL
+2017_18,STK,Stoke City,Stoke,EPL
+2017_18,SWA,Swansea City,Swansea,EPL
+2017_18,TOT,Tottenham Hotspur,Tottenham,EPL
+2017_18,WAT,Watford,Watford,EPL
+2017_18,WBA,West Bromwich Albion,West Brom,EPL
+2017_18,WHU,West Ham United,West Ham,EPL
+2018_19,ARS,Arsenal,Arsenal,EPL
+2018_19,BOU,AFC Bournemouth,Bournemouth,EPL
+2018_19,BRI,Brighton & Hove Albion,Brighton,EPL
+2018_19,BUR,Burnley,Burnley,EPL
+2018_19,CAR,Cardiff City,Cardiff,EPL
+2018_19,CHE,Chelsea,Chelsea,EPL
+2018_19,CRY,Crystal Palace,Crystal Palace,EPL
+2018_19,EVE,Everton,Everton,EPL
+2018_19,FUL,Fulham,Fulham,EPL
+2018_19,HUD,Huddersfield Town,Huddersfield,EPL
+2018_19,LEI,Leicester City,Leicester,EPL
+2018_19,LIV,Liverpool,Liverpool,EPL
+2018_19,MCI,Manchester City,Man City,EPL
+2018_19,MUN,Manchester United,Man United,EPL
+2018_19,NEW,Newcastle United,Newcastle,EPL
+2018_19,SOU,Southampton,Southampton,EPL
+2018_19,TOT,Tottenham Hotspur,Tottenham,EPL
+2018_19,WAT,Watford,Watford,EPL
+2018_19,WHU,West Ham United,West Ham,EPL
+2018_19,WOL,Wolverhampton Wanderers,Wolves,EPL
+2019_20,ARS,Arsenal,Arsenal,EPL
+2019_20,AVL,Aston Villa,Aston Villa,EPL
+2019_20,BOU,AFC Bournemouth,Bournemouth,EPL
+2019_20,BRI,Brighton & Hove Albion,Brighton,EPL
+2019_20,BUR,Burnley,Burnley,EPL
+2019_20,CHE,Chelsea,Chelsea,EPL
+2019_20,CRY,Crystal Palace,Crystal Palace,EPL
+2019_20,EVE,Everton,Everton,EPL
+2019_20,LEI,Leicester City,Leicester,EPL
+2019_20,LIV,Liverpool,Liverpool,EPL
+2019_20,MCI,Manchester City,Man City,EPL
+2019_20,MUN,Manchester United,Man United,EPL
+2019_20,NEW,Newcastle United,Newcastle,EPL
+2019_20,NOR,Norwich City,Norwich,EPL
+2019_20,SHU,Sheffield United,Sheffield United,EPL
+2019_20,SOU,Southampton,Southampton,EPL
+2019_20,TOT,Tottenham Hotspur,Tottenham,EPL
+2019_20,WAT,Watford,Watford,EPL
+2019_20,WHU,West Ham United,West Ham,EPL
+2019_20,WOL,Wolverhampton Wanderers,Wolves,EPL
+2020_21,ARS,Arsenal,Arsenal,EPL
+2020_21,AVL,Aston Villa,Aston Villa,EPL
+2020_21,BRI,Brighton & Hove Albion,Brighton,EPL
+2020_21,BUR,Burnley,Burnley,EPL
+2020_21,CHE,Chelsea,Chelsea,EPL
+2020_21,CRY,Crystal Palace,Crystal Palace,EPL
+2020_21,EVE,Everton,Everton,EPL
+2020_21,FUL,Fulham,Fulham,EPL
+2020_21,LEE,Leeds United,Leeds,EPL
+2020_21,LEI,Leicester City,Leicester,EPL
+2020_21,LIV,Liverpool,Liverpool,EPL
+2020_21,MCI,Manchester City,Man City,EPL
+2020_21,MUN,Manchester United,Man United,EPL
+2020_21,NEW,Newcastle United,Newcastle,EPL
+2020_21,SHU,Sheffield United,Sheffield United,EPL
+2020_21,SOU,Southampton,Southampton,EPL
+2020_21,TOT,Tottenham Hotspur,Tottenham,EPL
+2020_21,WBA,West Bromwich Albion,West Brom,EPL
+2020_21,WHU,West Ham United,West Ham,EPL
+2020_21,WOL,Wolverhampton Wanderers,Wolves,EPL
+2021_22,ARS,Arsenal,Arsenal,EPL
+2021_22,AVL,Aston Villa,Aston Villa,EPL
+2021_22,BRE,Brentford,Brentford,EPL
+2021_22,BRI,Brighton & Hove Albion,Brighton,EPL
+2021_22,BUR,Burnley,Burnley,EPL
+2021_22,CHE,Chelsea,Chelsea,EPL
+2021_22,CRY,Crystal Palace,Crystal Palace,EPL
+2021_22,EVE,Everton,Everton,EPL
+2021_22,LEE,Leeds United,Leeds,EPL
+2021_22,LEI,Leicester City,Leicester,EPL
+2021_22,LIV,Liverpool,Liverpool,EPL
+2021_22,MCI,Manchester City,Man City,EPL
+2021_22,MUN,Manchester United,Man United,EPL
+2021_22,NEW,Newcastle United,Newcastle,EPL
+2021_22,NOR,Norwich City,Norwich,EPL
+2021_22,SOU,Southampton,Southampton,EPL
+2021_22,TOT,Tottenham Hotspur,Tottenham,EPL
+2021_22,WAT,Watford,Watford,EPL
+2021_22,WHU,West Ham United,West Ham,EPL
+2021_22,WOL,Wolverhampton Wanderers,Wolves,EPL
+2022_23,ARS,Arsenal,Arsenal,EPL
+2022_23,AVL,Aston Villa,Aston Villa,EPL
+2022_23,BOU,AFC Bournemouth,Bournemouth,EPL
+2022_23,BRE,Brentford,Brentford,EPL
+2022_23,BRI,Brighton & Hove Albion,Brighton,EPL
+2022_23,CHE,Chelsea,Chelsea,EPL
+2022_23,CRY,Crystal Palace,Crystal Palace,EPL
+2022_23,EVE,Everton,Everton,EPL
+2022_23,FUL,Fulham,Fulham,EPL
+2022_23,LEE,Leeds United,Leeds,EPL
+2022_23,LEI,Leicester City,Leicester,EPL
+2022_23,LIV,Liverpool,Liverpool,EPL
+2022_23,MCI,Manchester City,Man City,EPL
+2022_23,MUN,Manchester United,Man United,EPL
+2022_23,NEW,Newcastle United,Newcastle,EPL
+2022_23,NFO,Nottingham Forest,Nott'm Forest,EPL
+2022_23,SOU,Southampton,Southampton,EPL
+2022_23,TOT,Tottenham Hotspur,Tottenham,EPL
+2022_23,WHU,West Ham United,West Ham,EPL
+2022_23,WOL,Wolverhampton Wanderers,Wolves,EPL
+2023_24,ARS,Arsenal,Arsenal,EPL
+2023_24,AVL,Aston Villa,Aston Villa,EPL
+2023_24,BOU,AFC Bournemouth,Bournemouth,EPL
+2023_24,BRE,Brentford,Brentford,EPL
+2023_24,BRI,Brighton & Hove Albion,Brighton,EPL
+2023_24,BUR,Burnley,Burnley,EPL
+2023_24,CHE,Chelsea,Chelsea,EPL
+2023_24,CRY,Crystal Palace,Crystal Palace,EPL
+2023_24,EVE,Everton,Everton,EPL
+2023_24,FUL,Fulham,Fulham,EPL
+2023_24,LIV,Liverpool,Liverpool,EPL
+2023_24,LUT,Luton Town,Luton,EPL
+2023_24,MCI,Manchester City,Man City,EPL
+2023_24,MUN,Manchester United,Man United,EPL
+2023_24,NEW,Newcastle United,Newcastle,EPL
+2023_24,NFO,Nottingham Forest,Nott'm Forest,EPL
+2023_24,SHU,Sheffield United,Sheffield United,EPL
+2023_24,TOT,Tottenham Hotspur,Tottenham,EPL
+2023_24,WHU,West Ham United,West Ham,EPL
+2023_24,WOL,Wolverhampton Wanderers,Wolves,EPL
+2024_25,ARS,Arsenal,Arsenal,EPL
+2024_25,AVL,Aston Villa,Aston Villa,EPL
+2024_25,BOU,AFC Bournemouth,Bournemouth,EPL
+2024_25,BRE,Brentford,Brentford,EPL
+2024_25,BRI,Brighton & Hove Albion,Brighton,EPL
+2024_25,CHE,Chelsea,Chelsea,EPL
+2024_25,CRY,Crystal Palace,Crystal Palace,EPL
+2024_25,EVE,Everton,Everton,EPL
+2024_25,FUL,Fulham,Fulham,EPL
+2024_25,IPS,Ipswich Town,Ipswich,EPL
+2024_25,LEI,Leicester City,Leicester,EPL
+2024_25,LIV,Liverpool,Liverpool,EPL
+2024_25,MCI,Manchester City,Man City,EPL
+2024_25,MUN,Manchester United,Man United,EPL
+2024_25,NEW,Newcastle United,Newcastle,EPL
+2024_25,NFO,Nottingham Forest,Nott'm Forest,EPL
+2024_25,SOU,Southampton,Southampton,EPL
+2024_25,TOT,Tottenham Hotspur,Tottenham,EPL
+2024_25,WHU,West Ham United,West Ham,EPL
+2024_25,WOL,Wolverhampton Wanderers,Wolves,EPL
+2025_26,ARS,Arsenal,Arsenal,EPL
+2025_26,AVL,Aston Villa,Aston Villa,EPL
+2025_26,BOU,AFC Bournemouth,Bournemouth,EPL
+2025_26,BRE,Brentford,Brentford,EPL
+2025_26,BRI,Brighton & Hove Albion,Brighton,EPL
+2025_26,BUR,Burnley,Burnley,EPL
+2025_26,CHE,Chelsea,Chelsea,EPL
+2025_26,CRY,Crystal Palace,Crystal Palace,EPL
+2025_26,EVE,Everton,Everton,EPL
+2025_26,FUL,Fulham,Fulham,EPL
+2025_26,LEE,Leeds United,Leeds,EPL
+2025_26,LIV,Liverpool,Liverpool,EPL
+2025_26,MCI,Manchester City,Man City,EPL
+2025_26,MUN,Manchester United,Man United,EPL
+2025_26,NEW,Newcastle United,Newcastle,EPL
+2025_26,NFO,Nottingham Forest,Nott'm Forest,EPL
+2025_26,SUN,Sunderland,Sunderland,EPL
+2025_26,TOT,Tottenham Hotspur,Tottenham,EPL
+2025_26,WHU,West Ham United,West Ham,EPL
+2025_26,WOL,Wolverhampton Wanderers,Wolves,EPL

@@ -1,0 +1,2 @@
+version,observations,unique_matches,matched_observations,unmatched_observations,invalid_opening_prices,invalid_closing_prices,duplicate_match_selection_rows,unexpected_selections,matches_with_both_selections,matches_with_single_selection,result_mismatches,mean_clv,median_clv,positive_clv_rate,extreme_clv_count
+v0.20,5320,2660,5320,0,0,0,0,0,2660,0,0,6.757033886293273e-05,0.0,0.37969924812030076,13

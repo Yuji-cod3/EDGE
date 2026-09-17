@@ -1,0 +1,2 @@
+version,observations,unique_matches,mean_price_clv,median_price_clv,positive_price_clv_rate,mean_fair_clv,median_fair_clv,positive_fair_clv_rate,mean_opening_margin,mean_closing_margin,extreme_fair_clv_count
+v0.21,5320,2660,6.75703388629323e-05,0.0,0.37969924812030076,0.0037175069224991827,0.0,0.3825187969924812,0.05091115876657753,0.05071210820691018,10
